@@ -1,5 +1,4 @@
 ﻿#Requires -RunAsAdministrator
-#Requires -Modules Posh-SSH
 #Requires -Modules Vmware.VimAutomation.Core
 
 <#
